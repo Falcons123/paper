@@ -1,4 +1,4 @@
-Title
+#Title
 Aircraft measurements and simulatios of biomass burning aerosols over West Africa
 
 # Author
@@ -15,3 +15,7 @@ A large uncertainty in modelling BBOA is the extent
 
 #Simulations
 We simulate the eveolution of particle sizes as they are transported away from source region
+
+#Methodology
+we compared out measurements of particle aging with a model simulation.
+The model is detailed in smith et al 2002.
