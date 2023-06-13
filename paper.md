@@ -19,6 +19,3 @@ We simulate the eveolution of particle sizes as they are transported away from s
 #Methodology
 we compared out measurements of particle aging with a model simulation.
 The model is detailed in smith et al 2002.
-
-#Instrument
-Particle Size Analyser
